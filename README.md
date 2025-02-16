@@ -12,7 +12,7 @@ El objetivo de esta práctica es diseñar y configurar redes de dos organizacion
 ## Contenido del Repositorio
 
 - **/topologia/**: Archivos de configuración y topologías en formato `.pkt` de Cisco Packet Tracer.
-- **/documentacion/**: Informe detallado en formato PDF con la justificación de diseño y configuraciones realizadas.
+- **/Memoria/**: Informe detallado en formato PDF con la justificación de diseño y configuraciones realizadas.
 - **README.md**: Este archivo con información general del proyecto.
 
 ## Requisitos
@@ -28,7 +28,7 @@ Para visualizar y probar la configuración es necesario contar con:
    git clone https://github.com/tuusuario/tu-repositorio.git
    ```
 2. Abrir los archivos `.pkt` en Cisco Packet Tracer.
-3. Revisar el informe en `/documentacion` para comprender las decisiones de diseño.
+3. Revisar el informe en `/Memoria` para comprender las decisiones de diseño.
 4. Simular la red y probar la conectividad según los ejercicios planteados en la práctica.
 
 ## Autores
