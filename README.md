@@ -1,6 +1,6 @@
-# Práctica Final - Arquitectura de Redes
+Proyecto AR - Rediseño y Configuración
 
-Este repositorio contiene la configuración y documentación de la Práctica Final de la asignatura Arquitectura de Redes del Grado en Ingeniería Informática, curso 2024/2025.
+Este repositorio almacena archivos y documentación relacionados con un ejercicio de planificación y estructuración de redes en un entorno de simulación.
 
 ## Descripción del Proyecto
 
