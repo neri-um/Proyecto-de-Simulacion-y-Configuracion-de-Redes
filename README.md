@@ -1,4 +1,4 @@
-Proyecto AR - Rediseño y Configuración
+# Proyecto AR - Rediseño y Configuración
 
 Este repositorio almacena archivos y documentación relacionados con un ejercicio de planificación y estructuración de redes en un entorno de simulación.
 
